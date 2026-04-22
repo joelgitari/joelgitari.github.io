@@ -1,6 +1,6 @@
 ---
 tititle: "Intro to web vulnerabilities"
-date: 2026-04-22 19:59:00 +0300
+date: 2026-04-22 19:59:00 
 categories: [Cybersecurity, Web]
 tags: [xss, sql-injection, csrc]
 ---
