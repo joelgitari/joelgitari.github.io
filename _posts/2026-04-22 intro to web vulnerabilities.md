@@ -10,5 +10,5 @@ web vulnerabilities are common entry points for attackers, in this opost well ex
 ## SQL Injection
 this occurs when unauthorized input is used in a satabase query
 
-##XSS
+## XSS
 Cross-site scripting is injecting scripts into web pages viewd by others.
