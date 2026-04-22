@@ -18,8 +18,7 @@ title: "Joel M Gitari" # the main title
 
 tagline: "Cyber Security Analyst"  # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  My Journey and projects in Infosec and Digital Forensics.
+description: "My Journey and projects in Infosec and Digital Forensics."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
