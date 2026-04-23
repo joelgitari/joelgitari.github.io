@@ -3,6 +3,10 @@ title: "Intro to web vulnerabilities"
 date: 2026-04-22
 categories: [Cybersecurity, Web]
 tags: [xss, sql-injection, csrc]
+image:
+path: /assets/raw.jpg
+width:
+heigt:
 ---
 
 web vulnerabilities are common entry points for attackers, in this opost well expore **Sql-Injection** and **XSS* -- two of the OWASP top 10.
